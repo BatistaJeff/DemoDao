@@ -1,0 +1,10 @@
+br\projetodemojdbc\model\Aluno.class
+br\projetodemojdbc\dao\jdbc\AlunoDao.class
+br\projetodemojdbc\dao\IDao.class
+br\projetodemojdbc\app\Resource.class
+br\projetodemojdbc\dao\IAlunoDao.class
+br\projetodemojdbc\dao\IClienteDao.class
+br\projetodemojdbc\dao\jdbc\ConnectionFactory.class
+br\projetodemojdbc\dao\jpa\AlunoDao.class
+br\projetodemojdbc\dao\jdbc\ClienteDao.class
+br\projetodemojdbc\model\Cliente.class
