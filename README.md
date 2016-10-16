@@ -1,4 +1,5 @@
 # Exemplo de projeto Java  #
+# Projeto de estudos da pos graduacao #
 
 * Programação por Interface
 * Design patterns: DAO e Factory
